@@ -5,7 +5,6 @@ Python CLI tool that reverses Conway's Game of Life by finding predecessor state
 ## Setup
 
 ```bash
-cd python_reverser
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
